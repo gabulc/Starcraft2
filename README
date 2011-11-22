@@ -1,0 +1,27 @@
+Welcome!
+
+Starcraft II is a web app which can control differente Tourtarments for the Blizzard Game SC2.
+
+Modules
+-Starcraft II - Admin: This is the app where you can manage all the following information
+	-News (Add, Edit, Delete, Check latest )
+	-Tourtarments (Add, Edit, Delete, Begin a New Tourtarment, View all)
+	-Results (Add, Edit, Delete, View All)
+	-Schedules (Add, View , Edit, Delete)
+	-Replays(Add, View , Edit, Delete)
+	
+-Starcraft II - Team: This is the app wherec you can view the SC2 Tourtarments Info. You can also register your team and your players.
+	-News
+	-Live
+	-Set up your Team!
+	-Teams ( By Tourtarment)
+	-Results ( Groups, Tourtarment, View Match Detail)
+	-Schedules
+	-Replays
+	
+Also you have here a sub-module where you can
+	-Team (Register, Edit, Retire)
+	-Players (Add, Edit, Delete)
+	
+
+This website is developed with PHP, Codeiginiter Framework, NetBeans IDE, jQuery and MySQL Database. You will need a web server, Apache preferably to run it.
