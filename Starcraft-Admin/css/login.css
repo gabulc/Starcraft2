@@ -1,0 +1,121 @@
+body {
+    background: url(../Imagenes/raynor.jpg) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        background-color: #B45F04   ;
+}
+
+#container{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100px;;
+    height: 100%;
+}
+
+#logosc2{
+    position: absolute;
+    top:250px;
+    left: 300px;
+}
+
+li a{
+    text-align: center;
+}
+
+#tabs{
+    position: absolute;
+    top:550px;
+    left:450px;
+    width: 850px;
+    height: 550px;
+}
+
+
+#tabs .ui-tabs-nav {
+	height: 2.35em;
+        background-color: #085477;
+	
+}
+#tabs .ui-tabs-nav li {
+	display: inline-block;
+	float: none;
+	margin: 0em;
+        
+}
+
+#tabs .ui-tabs-nav li a {
+	width: 200px;
+        font-size: 20px;
+        font-weight: bold;   
+}
+
+#tabs .ui-tabs-panel{
+    background-color: #0D80B5;
+    color: white;
+    font-family: Calibri;
+    font-size: 25px;
+    height: 450px;
+}
+
+
+#footer{
+    position: absolute;
+    top: 1000px;
+}
+
+#blizzard{
+    position:relative;
+    left: 500px;
+    top: 140px;
+}
+
+#wcg{
+    position:relative;
+    left: 1850px;
+    top: -50px;
+}
+
+#footerp{
+    position: relative;
+    color: #979896;
+    font-size: 25px;
+    top: 50px;
+    left: 950px;
+}
+
+#login{
+ position: relative;
+ top:50px;
+}
+
+/*log-in--------------------------------------*/
+#loginTabla{
+    position: relative;
+    left:150px;
+    top:90px;
+    color: white;
+    font-family: Calibri;
+    font-size: 25px;
+}
+#loginTabla tr{
+    height: 90px;
+}
+/*olvido la contraseña--------------------------------------*/
+#cont{
+    position: relative;
+    left:130px;
+    top:100px;
+}
+#botonEnviar{
+    position: absolute;
+    left: 150px;
+    top: 130px;
+}
+#mensaje{
+    position: relative;
+    left: 100px;
+    top: 180px;
+}
